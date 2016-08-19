@@ -26,6 +26,10 @@ gem 'rails-controller-testing'
 gem 'will_paginate', '3.1.0'
 gem 'bootstrap-will_paginate', '0.0.10'
 
+gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
